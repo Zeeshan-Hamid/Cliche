@@ -112,8 +112,8 @@ code, pre {
 .showcase-form{
     position: relative;
     top: 6px;
-    height: 350px;
-    width: 400px;
+    height: 390px;
+    width: 370px;
     padding: 40px;
     z-index:100;
     animation: slideInFromRight 1s ease-in;
@@ -391,7 +391,7 @@ code, pre {
 
 }
 
-@media(max-width:380px) {
+@media(max-width:375px) {
 
     .navbar{
         height: 130px;
