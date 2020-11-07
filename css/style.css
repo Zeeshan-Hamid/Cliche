@@ -113,7 +113,7 @@ code, pre {
     position: relative;
     top: 6px;
     height: 390px;
-    width: 340px;
+    width: 400px;
     padding: 40px;
     z-index:100;
     animation: slideInFromRight 1s ease-in;
@@ -388,6 +388,9 @@ code, pre {
         padding: 10px;
         background-color: rgba(0,0,0,0.1);
     }
+     .showcase-form{
+        width:340px;
+    }
 
 }
 
@@ -406,6 +409,9 @@ code, pre {
     }
     .navbar, .showcase{
     width:100%;
+    }
+    .showcase-form{
+        width:340px;
     }
     
 
